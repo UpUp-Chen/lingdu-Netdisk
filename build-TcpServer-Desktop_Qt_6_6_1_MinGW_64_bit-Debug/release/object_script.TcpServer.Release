@@ -1,0 +1,11 @@
+release/database.o
+release/main.o
+release/mytcpserver.o
+release/protocol.o
+release/srvSocket.o
+release/tcpserver.o
+release/qrc_config.o
+release/moc_database.o
+release/moc_mytcpserver.o
+release/moc_srvSocket.o
+release/moc_tcpserver.o

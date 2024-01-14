@@ -1,0 +1,850 @@
+************************************* Invoked: 周四 12月 21 04:35:04 2023
+[0] Arguments: C:\Users\27377\Downloads\qt-unified-windows-x64-4.6.1-online.exe
+[12] Operations sanity check succeeded.
+[21] Using metadata cache from "C:/Users/27377/AppData/Local/cache\\qt-unified-windows-online"
+[21] Found 0 cached items.
+[21] Reading Qt Account settings from disk: "C:/Users/27377/AppData/Roaming/Qt/qtaccount.ini"
+[21] Warning: Qt Account settings file [C:\\Users\\27377\\AppData\\Roaming\\Qt\\qtaccount.ini] does not exist.
+[21] Warning: Could not find Qt Account.
+[21] QtAccount information:
+[21] Login completed: false
+[21] Email: ""
+[21] Total number of licenses: 0
+[21] Account type: 3
+[22] Language: zh-CN
+[38042] Warning: 未找到 QtAccount 凭据。请通过 SDK 的维护工具登录。
+[40682] Login completed to Qt Account: "2100012510@stu.pku.edu.cn"
+[41944] License added. License id [ 11165013 ] License schema [ "Full Commercial" ] Licensed products [ "EDU-Designer" ] Licensed platforms [ ("X11", "Embedded Linux", "Windows", "Mac", "Embedded Windows", "Android", "QNX", "VxWorks", "INTEGRITY", "iOS", "WinRT", "Embedded Android") ] License expiry date [ QDate("2024-12-13") ]
+[41944] License added. License id [ 11165014 ] License schema [ "Full Commercial" ] Licensed products [ "EDU-Developer" ] Licensed platforms [ ("X11", "Embedded Linux", "Windows", "Mac", "Embedded Windows", "Android", "QNX", "VxWorks", "INTEGRITY", "iOS", "WinRT", "Embedded Android") ] License expiry date [ QDate("2024-12-13") ]
+[41944] Saving licenses to file: "C:/Users/27377/AppData/Roaming/Qt/qtlicenses.ini"
+[41955] License [ 11165014 ] written into: "C:/Users/27377/.qt-license"
+[41955] Saving Qt Account settings to file: "C:/Users/27377/AppData/Roaming/Qt/qtaccount.ini"
+[42211] "安装前提条件已确认，可以安装！" [ "success" ]
+[187346] 正在获取最新更新信息……
+[202076] 正在从远程资料档案库中检索元信息...
+[222005] 正在提取元信息...
+[223194] 正在更新本地缓存中的333个新项目……
+[224547] 正在加载组件脚本……
+[1644607] 正在加载组件脚本……
+[1670137] 无依赖项的所选组件：
+qtdesignstudio 
+qt 
+qt.tools 
+qt.license.enterprise 
+qt.qt6.661.addons 
+qt.qt6.661.debug_info 
+qt.qt6.661.logs 
+qt.tools.maintenance 
+添加为“qt.tools.qtdesignstudio”依赖项的组件：
+qt.tools.vcredist_msvc2019_x64 
+包含已解决依赖项的组件：
+qt.tools.qtdesignstudio 
+添加为“qt.qt6.661”依赖项的组件：
+qt.qt6.661.doc 
+qt.qt6.661.examples 
+添加为“qt.tools.qtcreator”依赖项的组件：
+qt.tools.vcredist_msvc2019_x86 
+qt.tools.vcredist 
+qt.tools.vcredist_64 
+添加为“qt.qt6.661”依赖项的组件：
+qt.tools.qtcreator 
+包含已解决依赖项的组件：
+qt.qt6.661 
+添加为“qt.qt6.661.win64_mingw”依赖项的组件：
+qt.tools.win64_mingw900 
+包含已解决依赖项的组件：
+qt.qt6.661.win64_mingw 
+添加为“qt.qt6.661.addons.qtactiveqt”依赖项的组件：
+qt.qt6.661.doc.qtactiveqt 
+qt.qt6.661.examples.qtactiveqt 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtactiveqt 
+添加为“qt.qt6.661.addons.qt3d”依赖项的组件：
+qt.qt6.661.doc.qt3d 
+qt.qt6.661.examples.qt3d 
+添加为“qt.qt6.661.qtshadertools”依赖项的组件：
+qt.qt6.661.doc.qtshadertools 
+qt.qt6.661.examples.qtshadertools 
+添加为“qt.qt6.661.addons.qt3d”依赖项的组件：
+qt.qt6.661.qtshadertools 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qt3d 
+添加为“qt.qt6.661.addons.qtcharts”依赖项的组件：
+qt.qt6.661.doc.qtcharts 
+qt.qt6.661.examples.qtcharts 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtcharts 
+添加为“qt.qt6.661.addons.qtcoap”依赖项的组件：
+qt.qt6.661.doc.qtcoap 
+qt.qt6.661.examples.qtcoap 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtcoap 
+添加为“qt.qt6.661.addons.qtconnectivity”依赖项的组件：
+qt.qt6.661.doc.qtbluetooth 
+qt.qt6.661.doc.qtnfc 
+qt.qt6.661.examples.qtconnectivity 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtconnectivity 
+添加为“qt.qt6.661.addons.qtdatavis3d”依赖项的组件：
+qt.qt6.661.doc.qtdatavis3d 
+qt.qt6.661.examples.qtdatavis3d 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtdatavis3d 
+添加为“qt.qt6.661.addons.qtgraphs”依赖项的组件：
+qt.qt6.661.doc.qtgraphs 
+qt.qt6.661.examples.qtgraphs 
+添加为“qt.qt6.661.qtquick3d”依赖项的组件：
+qt.qt6.661.doc.qtquick3d 
+qt.qt6.661.examples.qtquick3d 
+添加为“qt.qt6.661.qtquicktimeline”依赖项的组件：
+qt.qt6.661.doc.qtquicktimeline 
+qt.qt6.661.examples.qtquicktimeline 
+添加为“qt.qt6.661.qtquick3d”依赖项的组件：
+qt.qt6.661.qtquicktimeline 
+添加为“qt.qt6.661.addons.qtgraphs”依赖项的组件：
+qt.qt6.661.qtquick3d 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtgraphs 
+添加为“qt.qt6.661.addons.qthttpserver”依赖项的组件：
+qt.qt6.661.doc.qthttpserver 
+qt.qt6.661.examples.qthttpserver 
+添加为“qt.qt6.661.addons.qtwebsockets”依赖项的组件：
+qt.qt6.661.doc.qtwebsockets 
+qt.qt6.661.examples.qtwebsockets 
+添加为“qt.qt6.661.addons.qthttpserver”依赖项的组件：
+qt.qt6.661.addons.qtwebsockets 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qthttpserver 
+添加为“qt.qt6.661.addons.qtimageformats”依赖项的组件：
+qt.qt6.661.doc.qtimageformats 
+qt.qt6.661.examples.qtimageformats 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtimageformats 
+添加为“qt.qt6.661.addons.qtinsighttracker”依赖项的组件：
+qt.qt6.661.examples.qtinsighttracker 
+qt.qt6.661.doc.qtinsighttracker 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtinsighttracker 
+添加为“qt.qt6.661.addons.qtlanguageserver”依赖项的组件：
+qt.qt6.661.doc.qtlanguageserver 
+qt.qt6.661.examples.qtlanguageserver 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtlanguageserver 
+添加为“qt.qt6.661.addons.qtlocation”依赖项的组件：
+qt.qt6.661.doc.qtlocation 
+qt.qt6.661.examples.qtlocation 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtlocation 
+添加为“qt.qt6.661.addons.qtlottie”依赖项的组件：
+qt.qt6.661.doc.qtlottie 
+qt.qt6.661.examples.qtlottie 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtlottie 
+添加为“qt.qt6.661.addons.qtmqtt”依赖项的组件：
+qt.qt6.661.doc.qtmqtt 
+qt.qt6.661.examples.qtmqtt 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtmqtt 
+添加为“qt.qt6.661.addons.qtmultimedia”依赖项的组件：
+qt.qt6.661.doc.qtmultimedia 
+qt.qt6.661.examples.qtmultimedia 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtmultimedia 
+添加为“qt.qt6.661.addons.qtnetworkauth”依赖项的组件：
+qt.qt6.661.doc.qtnetworkauth 
+qt.qt6.661.examples.qtnetworkauth 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtnetworkauth 
+添加为“qt.qt6.661.addons.qtopcua”依赖项的组件：
+qt.qt6.661.doc.qtopcua 
+qt.qt6.661.examples.qtopcua 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtopcua 
+添加为“qt.qt6.661.addons.qtpdf”依赖项的组件：
+qt.qt6.661.doc.qtpdf 
+添加为“qt.qt6.661.addons.qtwebengine”依赖项的组件：
+qt.qt6.661.doc.qtwebengine 
+qt.qt6.661.examples.qtwebengine 
+添加为“qt.qt6.661.addons.qtwebchannel”依赖项的组件：
+qt.qt6.661.doc.qtwebchannel 
+qt.qt6.661.examples.qtwebchannel 
+添加为“qt.qt6.661.addons.qtwebengine”依赖项的组件：
+qt.qt6.661.addons.qtwebchannel 
+添加为“qt.qt6.661.addons.qtpositioning”依赖项的组件：
+qt.qt6.661.doc.qtpositioning 
+qt.qt6.661.examples.qtpositioning 
+添加为“qt.qt6.661.addons.qtwebengine”依赖项的组件：
+qt.qt6.661.addons.qtpositioning 
+添加为“qt.qt6.661.addons.qtpdf”依赖项的组件：
+qt.qt6.661.addons.qtwebengine 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtpdf 
+添加为“qt.qt6.661.addons.qtgrpc”依赖项的组件：
+qt.qt6.661.doc.qtgrpc 
+qt.qt6.661.examples.qtgrpc 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtgrpc 
+添加为“qt.qt6.661.addons.qtqmlscriptcompiler”依赖项的组件：
+qt.qt6.661.examples.qtqmlscriptcompiler 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtqmlscriptcompiler 
+添加为“qt.qt6.661.addons.qtquickeffectmaker”依赖项的组件：
+qt.qt6.661.doc.qtquickeffectmaker 
+qt.qt6.661.examples.qtquickeffectmaker 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtquickeffectmaker 
+添加为“qt.qt6.661.addons.qtremoteobjects”依赖项的组件：
+qt.qt6.661.doc.qtremoteobjects 
+qt.qt6.661.examples.qtremoteobjects 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtremoteobjects 
+添加为“qt.qt6.661.addons.qtsensors”依赖项的组件：
+qt.qt6.661.doc.qtsensors 
+qt.qt6.661.examples.qtsensors 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtsensors 
+添加为“qt.qt6.661.addons.qtserialbus”依赖项的组件：
+qt.qt6.661.doc.qtserialbus 
+qt.qt6.661.examples.qtserialbus 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtserialbus 
+添加为“qt.qt6.661.addons.qtserialport”依赖项的组件：
+qt.qt6.661.doc.qtserialport 
+qt.qt6.661.examples.qtserialport 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtserialport 
+添加为“qt.qt6.661.addons.qtspeech”依赖项的组件：
+qt.qt6.661.doc.qtspeech 
+qt.qt6.661.examples.qtspeech 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtspeech 
+添加为“qt.qt6.661.addons.qtscxml”依赖项的组件：
+qt.qt6.661.doc.qtscxml 
+qt.qt6.661.examples.qtscxml 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtscxml 
+添加为“qt.qt6.661.addons.qtvncserver”依赖项的组件：
+qt.qt6.661.examples.qtvncserver 
+qt.qt6.661.doc.qtvncserver 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtvncserver 
+添加为“qt.qt6.661.addons.qtvirtualkeyboard”依赖项的组件：
+qt.qt6.661.doc.qtvirtualkeyboard 
+qt.qt6.661.examples.qtvirtualkeyboard 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtvirtualkeyboard 
+添加为“qt.qt6.661.addons.qtwebview”依赖项的组件：
+qt.qt6.661.doc.qtwebview 
+qt.qt6.661.examples.qtwebview 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtwebview 
+添加为“qt.qt6.661.addons.qtquick3dphysics”依赖项的组件：
+qt.qt6.661.doc.qtquick3dphysics 
+qt.qt6.661.examples.qtquick3dphysics 
+包含已解决依赖项的组件：
+qt.qt6.661.addons.qtquick3dphysics 
+添加为“qt.tools.qtcreator_gui”依赖项的组件：
+qt.tools.qtcreator_gui.enterprise.plugins 
+包含已解决依赖项的组件：
+qt.tools.qtcreator_gui 
+添加为“qt.tools.qtcreatorcdbext”依赖项的组件：
+qt.license.python 
+包含已解决依赖项的组件：
+qt.tools.qtcreatorcdbext 
+添加为“qt.tools.windows_kits_debuggers”依赖项的组件：
+qt.license.win10sdk 
+包含已解决依赖项的组件：
+qt.tools.windows_kits_debuggers 
+qt.tools.cmake 
+qt.tools.ninja 
+组件作为自动依赖项添加：
+qt.tools.qtdesignstudio.extra 
+qt.tools.qtdesignstudio.enterprise 
+qt.tools.qtdesignstudio.sketch_bridge 
+qt.tools.qtdesignstudio.xd_bridge 
+qt.tools.qtdesignstudio.licensechecker 
+qt.tools.qtdesignstudio.photoshop_bridge 
+qt.qt6.661.addons.qtvirtualkeyboard.win64_mingw 
+qt.qt6.661.addons.qtpdf.win64_mingw 
+qt.qt6.661.addons.qtscxml.win64_mingw 
+qt.qt6.661.addons.qtgraphs.win64_mingw 
+qt.qt6.661.addons.qtquick3dphysics.win64_mingw 
+qt.qt6.661.addons.qtmultimedia.win64_mingw 
+qt.qt6.661.addons.qtmqtt.win64_mingw 
+qt.qt6.661.addons.qtsensors.win64_mingw 
+qt.qt6.661.addons.qthttpserver.win64_mingw 
+qt.qt6.661.debug_info.win64_mingw 
+qt.qt6.661.addons.qtcharts.win64_mingw 
+qt.qt6.661.addons.qtcoap.win64_mingw 
+qt.qt6.661.addons.qtlocation.win64_mingw 
+qt.qt6.661.addons.qtspeech.win64_mingw 
+qt.qt6.661.addons.qtconnectivity.win64_mingw 
+qt.qt6.661.addons.qtdatavis3d.win64_mingw 
+qt.qt6.661.addons.qtgrpc.win64_mingw 
+qt.qt6.661.addons.qtpositioning.win64_mingw 
+qt.qt6.661.addons.qt3d.win64_mingw 
+qt.qt6.661.addons.qtnetworkauth.win64_mingw 
+qt.qt6.661.addons.qtopcua.win64_mingw 
+qt.qt6.661.addons.qtqmlscriptcompiler.win64_mingw 
+qt.qt6.661.addons.qtserialport.win64_mingw 
+qt.qt6.661.addons.qtactiveqt.win64_mingw 
+qt.qt6.661.addons.qtserialbus.win64_mingw 
+qt.qt6.661.addons.qtlanguageserver.win64_mingw 
+qt.qt6.661.addons.qtwebchannel.win64_mingw 
+qt.qt6.661.addons.qtinsighttracker.win64_mingw 
+qt.qt6.661.addons.qtremoteobjects.win64_mingw 
+qt.qt6.661.qtquick3d.win64_mingw 
+qt.qt6.661.addons.qtimageformats.win64_mingw 
+qt.qt6.661.addons.qtlottie.win64_mingw 
+qt.qt6.661.addons.qtquickeffectmaker.win64_mingw 
+qt.qt6.661.addons.qtwebsockets.win64_mingw 
+qt.qt6.661.qtquicktimeline.win64_mingw 
+qt.qt6.661.qtshadertools.win64_mingw 
+qt.qt6.661.addons.qtwebview.win64_mingw 
+qt.qt6.661.addons.qtvncserver.win64_mingw 
+qt.tools.qtdesignstudio.enterprise.msvc2019
+[1670138] Installation space required: "13.27 GB" Temporary space required: "3.05 GB" Local repository size: "0.00 字节"
+[1670139] Cache is on a different volume than the installation directory. Cache volume mount point: "C:\\" Free space available: "114.76 GB" Install volume mount point: "D:\\" Free space available: "685.26 GB"
+[1671064] Saving uuid for: "2100012510@stu.pku.edu.cn"
+[1671066] backup  operation: Mkdir
+[1671066] 	- arguments: D:/QT
+[1671066] Done
+[1671066] perform  operation: Mkdir
+[1671066] 	- arguments: D:/QT
+[1671066] Done
+[1671066] 正在准备安装…
+[1671066] Install size: 185 components
+[1671077] Starting elevated process "C:\\Users\\27377\\Downloads\\qt-unified-windows-x64-4.6.1-online.exe" with arguments " --start-server PRODUCTION,{c23fccd8-8585-46f8-8491-cde75e7d57d3},{4b61352f-b14e-4f03-92c9-4f485ce4d4cd}"
+[1672374] Finished starting elevated process.
+[1672472] 正在下载包...
+[1672473] 正在下载组件 Logs 的存档“6.6.1-0-202311210525All_buildlogs.tar.sha1”。
+[1693144] 正在下载组件 Logs 的存档“6.6.1-0-202311210525All_buildlogs.tar”。
+[1705984] 正在下载组件 Logs 的存档“6.6.1-0-202311210525All_testlogs.tar.sha1”。
+[1707143] 正在下载组件 Logs 的存档“6.6.1-0-202311210525All_testlogs.tar”。
+[1737660] 正在下载组件 Logs 的存档“6.6.1-0-202311210525All_provisioninglogs.tar.sha1”。
+[1739150] 正在下载组件 Logs 的存档“6.6.1-0-202311210525All_provisioninglogs.tar”。
+[1740404] 正在下载组件 Qt Maintenance Tool 的存档“4.6.1-0-202308231235tqtc-installer-framework-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86_64-QtInstaller.7z.sha1”。
+[1741494] 正在下载组件 Qt Maintenance Tool 的存档“4.6.1-0-202308231235tqtc-installer-framework-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86_64-QtInstaller.7z”。
+[1744269] 正在下载组件 Qt Maintenance Tool 的存档“4.6.1-0-202308231235installer-changelog.7z.sha1”。
+[1745370] 正在下载组件 Qt Maintenance Tool 的存档“4.6.1-0-202308231235installer-changelog.7z”。
+[1746538] 正在下载组件 Qt Maintenance Tool 的存档“4.6.1-0-202308231235installer-resource.7z.sha1”。
+[1750666] 正在下载组件 Qt Maintenance Tool 的存档“4.6.1-0-202308231235installer-resource.7z”。
+[1751777] 正在下载组件 VCRedist for MSVC 2019 64bit 的存档“2022-06-07vcredist_msvc2019_x64.7z.sha1”。
+[1752887] 正在下载组件 VCRedist for MSVC 2019 64bit 的存档“2022-06-07vcredist_msvc2019_x64.7z”。
+[1756442] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812design_studio_extra_qt_docs.7z.sha1”。
+[1757559] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812design_studio_extra_qt_docs.7z”。
+[1765799] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812designstudio_base.7z.sha1”。
+[1766928] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812designstudio_base.7z”。
+[1772644] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812effect_bundle.7z.sha1”。
+[1773795] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812effect_bundle.7z”。
+[1775298] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812plugin-telemetry.7z.sha1”。
+[1776472] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812plugin-telemetry.7z”。
+[1777716] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qdb.7z.sha1”。
+[1778837] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qdb.7z”。
+[1780794] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qt6_design_studio_reduced_version.7z.sha1”。
+[1781903] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qt6_design_studio_reduced_version.7z”。
+[1827102] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qt6_qmlpuppet.7z.sha1”。
+[1832316] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qt6_qmlpuppet.7z”。
+[1833701] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtcreator.7z.sha1”。
+[1834815] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtcreator.7z”。
+[1849322] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtcreator_sdktool.7z.sha1”。
+[1850431] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtcreator_sdktool.7z”。
+[1851043] Warning: libpng warning: iCCP: known incorrect sRGB profile
+[1851884] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtdesignviewer_arm64-v8a.zip.sha1”。
+[1853269] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtdesignviewer_arm64-v8a.zip”。
+[1857753] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtdesignviewer_armeabi-v7a.zip.sha1”。
+[1858935] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtdesignviewer_armeabi-v7a.zip”。
+[1861032] Warning: libpng warning: iCCP: known incorrect sRGB profile
+[1864540] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtdesignviewer_x86.zip.sha1”。
+[1865667] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtdesignviewer_x86.zip”。
+[1870989] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtdesignviewer_x86_64.zip.sha1”。
+[1872101] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812qtdesignviewer_x86_64.zip”。
+[1877801] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812content.7z.sha1”。
+[1878927] 正在下载组件 Qt Design Studio 4.3.2 的存档“4.3.2-0-202312121812content.7z”。
+[1880051] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qt5-documentation.zip.sha1”。
+[1885202] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qt5-documentation.zip”。
+[1886455] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qdoc-documentation.zip.sha1”。
+[1888809] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qdoc-documentation.zip”。
+[1891184] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qmake-documentation.zip.sha1”。
+[1892330] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qmake-documentation.zip”。
+[1893700] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtassistant-documentation.zip.sha1”。
+[1894808] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtassistant-documentation.zip”。
+[1896241] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtconcurrent-documentation.zip.sha1”。
+[1898908] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtconcurrent-documentation.zip”。
+[1900239] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtcmake-documentation.zip.sha1”。
+[1909815] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtcmake-documentation.zip”。
+[1914064] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtcore-documentation.zip.sha1”。
+[1915174] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtcore-documentation.zip”。
+[1948299] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1949854] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtdbus-documentation.zip.sha1”。
+[1949882] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1951563] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1953612] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtdbus-documentation.zip”。
+[1953634] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1954910] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1956393] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtdesigner-documentation.zip.sha1”。
+[1956411] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1957475] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1958885] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtdesigner-documentation.zip”。
+[1958905] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1959870] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1964320] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtdistancefieldgenerator-documentation.zip.sha1”。
+[1964341] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1965315] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1966431] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtdistancefieldgenerator-documentation.zip”。
+[1966464] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1967473] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1968720] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtdoc-documentation.zip.sha1”。
+[1968746] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1969755] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1970899] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtdoc-documentation.zip”。
+[1970919] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1971900] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1985597] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtgui-documentation.zip.sha1”。
+[1985626] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1986697] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1987793] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtgui-documentation.zip”。
+[1987815] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1988799] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1998370] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qthelp-documentation.zip.sha1”。
+[1998399] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[1999390] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2000512] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qthelp-documentation.zip”。
+[2000520] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2001541] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2002803] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtlabsplatform-documentation.zip.sha1”。
+[2002825] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2003762] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2004863] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtlabsplatform-documentation.zip”。
+[2004870] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2005813] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2007136] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtlinguist-documentation.zip.sha1”。
+[2007157] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2008155] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2009269] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtlinguist-documentation.zip”。
+[2009292] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2010322] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2012242] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtnetwork-documentation.zip.sha1”。
+[2012274] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2013279] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2014696] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtnetwork-documentation.zip”。
+[2014721] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2015750] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2018282] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtopengl-documentation.zip.sha1”。
+[2018309] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2019254] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2020346] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtopengl-documentation.zip”。
+[2020366] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2021422] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2023081] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtplatformintegration-documentation.zip.sha1”。
+[2023113] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2024128] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2025272] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtplatformintegration-documentation.zip”。
+[2025302] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2026258] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2027440] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtprintsupport-documentation.zip.sha1”。
+[2027468] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2028575] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2029693] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtprintsupport-documentation.zip”。
+[2029721] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2030661] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2031938] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqml-documentation.zip.sha1”。
+[2031956] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2032972] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2034044] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqml-documentation.zip”。
+[2034063] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2035034] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2037588] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmlcore-documentation.zip.sha1”。
+[2037608] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2039529] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2040661] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmlcore-documentation.zip”。
+[2040691] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2041644] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2042927] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmlmodels-documentation.zip.sha1”。
+[2042957] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2043927] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2045020] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmlmodels-documentation.zip”。
+[2045027] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2045980] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2047213] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmltest-documentation.zip.sha1”。
+[2047233] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2048251] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2049329] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmltest-documentation.zip”。
+[2049359] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2050331] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2051561] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmlworkerscript-documentation.zip.sha1”。
+[2051592] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2052537] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2053647] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmlworkerscript-documentation.zip”。
+[2053667] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2054668] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2055844] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmlxmllistmodel-documentation.zip.sha1”。
+[2055876] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2056866] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2057940] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtqmlxmllistmodel-documentation.zip”。
+[2057968] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2058996] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2060265] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtquick-documentation.zip.sha1”。
+[2060291] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2061243] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2062380] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtquick-documentation.zip”。
+[2062412] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2063393] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2067508] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtquickcontrols-documentation.zip.sha1”。
+[2067528] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2068527] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2069633] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtquickcontrols-documentation.zip”。
+[2069654] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2070604] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2071038] Warning: libpng warning: iCCP: known incorrect sRGB profile
+[2077901] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtquickdialogs-documentation.zip.sha1”。
+[2077929] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2078905] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2079995] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtquickdialogs-documentation.zip”。
+[2080016] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2081038] Warning: libpng warning: iCCP: known incorrect sRGB profile
+[2081997] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2083261] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtsql-documentation.zip.sha1”。
+[2083288] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2084283] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2085398] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtsql-documentation.zip”。
+[2085419] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2086414] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2087900] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtsvg-documentation.zip.sha1”。
+[2087925] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2088905] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2090021] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtsvg-documentation.zip”。
+[2090048] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2091015] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2092209] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qttestlib-documentation.zip.sha1”。
+[2092215] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2093216] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2094301] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qttestlib-documentation.zip”。
+[2094325] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2095304] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2097634] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtuitools-documentation.zip.sha1”。
+[2097651] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2098635] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2099754] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtuitools-documentation.zip”。
+[2099761] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2100787] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2102149] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtwaylandcompositor-documentation.zip.sha1”。
+[2102180] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2103157] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2104269] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtwaylandcompositor-documentation.zip”。
+[2104287] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2105253] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2106798] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtwidgets-documentation.zip.sha1”。
+[2106830] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2107959] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2109056] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtwidgets-documentation.zip”。
+[2109076] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2110043] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2128333] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtxml-documentation.zip.sha1”。
+[2128342] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2129349] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2130445] 正在下载组件 Qt 6.6.1 Documentation 的存档“6.6.1-0-202311210525qtxml-documentation.zip”。
+[2130452] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2131468] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2132730] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtbase-examples-6.6.1.7z.sha1”。
+[2132737] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2133756] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2134876] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtbase-examples-6.6.1.7z”。
+[2134902] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2135934] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2138036] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtdeclarative-examples-6.6.1.7z.sha1”。
+[2138043] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2139056] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2140152] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtdeclarative-examples-6.6.1.7z”。
+[2140159] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2141129] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2151174] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtdoc-examples-6.6.1.7z.sha1”。
+[2151204] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2152263] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2153404] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtdoc-examples-6.6.1.7z”。
+[2153431] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2154430] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2156675] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtsvg-examples-6.6.1.7z.sha1”。
+[2156695] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2157646] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2158768] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtsvg-examples-6.6.1.7z”。
+[2158775] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2159753] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2160867] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qttools-examples-6.6.1.7z.sha1”。
+[2160896] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2161909] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2163004] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qttools-examples-6.6.1.7z”。
+[2163032] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2163988] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2165338] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtwayland-examples-6.6.1.7z.sha1”。
+[2165365] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2166378] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2167486] 正在下载组件 Qt 6.6.1 Examples 的存档“6.6.1-0-202311210525qtwayland-examples-6.6.1.7z”。
+[2167504] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2168454] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2170445] 正在下载组件 VCRedist for MSVC 2019 32bit 的存档“2022-06-07vcredist_msvc2019_x86.7z.sha1”。
+[2170465] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2171464] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2172571] 正在下载组件 VCRedist for MSVC 2019 32bit 的存档“2022-06-07vcredist_msvc2019_x86.7z”。
+[2172589] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2173604] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2185346] 正在下载组件 VCRedist for MSVC 32bit 的存档“2022-06-07vcredist_x86.7z.sha1”。
+[2185370] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2186400] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2186650] 正在下载组件 VCRedist for MSVC 32bit 的存档“2022-06-07vcredist_x86.7z”。
+[2186683] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2188139] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2195593] 正在下载组件 VCRedist for MSVC 64bit 的存档“2022-06-07vcredist_x64.7z.sha1”。
+[2195620] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2196722] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2196939] 正在下载组件 VCRedist for MSVC 64bit 的存档“2022-06-07vcredist_x64.7z”。
+[2196970] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2198228] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2199843] 正在下载组件 SDKTool 的存档“12.0.1-0-202312120214qtcreator_sdktool.7z.sha1”。
+[2199865] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2200885] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2201993] 正在下载组件 SDKTool 的存档“12.0.1-0-202312120214qtcreator_sdktool.7z”。
+[2202024] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2203037] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2203589] 正在下载组件 Qt 6.6.1 的存档“6.6.1-0-202311210525sha1s.txt.7z.sha1”。
+[2203616] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2207887] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2209045] 正在下载组件 Qt 6.6.1 的存档“6.6.1-0-202311210525sha1s.txt.7z”。
+[2209075] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2210069] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2211187] 正在下载组件 MinGW 11.2.0 64-bit 的存档“9.0.0-1-202203221219mingw-w64-x86_64-11.2.0-release-posix-seh-rt_v9-rev3.7z.sha1”。
+[2211207] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2212191] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2213276] 正在下载组件 MinGW 11.2.0 64-bit 的存档“9.0.0-1-202203221219mingw-w64-x86_64-11.2.0-release-posix-seh-rt_v9-rev3.7z”。
+[2213298] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2214290] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2291034] Warning: libpng warning: iCCP: known incorrect sRGB profile
+[2301032] Warning: libpng warning: iCCP: known incorrect sRGB profile
+[2301084] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1”。
+[2301113] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2302209] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2303416] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qtbase-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z”。
+[2303439] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2304472] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2321247] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1”。
+[2321254] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2322263] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2323370] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qtsvg-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z”。
+[2323391] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2324361] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2325608] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1”。
+[2325626] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2326624] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2327844] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qtdeclarative-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z”。
+[2327851] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2328825] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2392597] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1”。
+[2392613] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2393659] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2394814] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qttools-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z”。
+[2394821] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2395891] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2422968] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z.sha1”。
+[2422997] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2424095] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2425305] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525qttranslations-Windows-Windows_10_22H2-Mingw-Windows-Windows_10_22H2-X86_64.7z”。
+[2425328] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2426280] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2428094] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525MinGW-w64-x86_64-11.2.0-release-posix-seh-rt_v9-rev1-runtime.7z.sha1”。
+[2428101] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2429090] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2430196] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525MinGW-w64-x86_64-11.2.0-release-posix-seh-rt_v9-rev1-runtime.7z”。
+[2430215] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2431222] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2432538] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525d3dcompiler_47-x64.7z.sha1”。
+[2432561] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2433530] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2434631] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525d3dcompiler_47-x64.7z”。
+[2434654] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2435654] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2437765] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525opengl32sw-64-mesa_11_2_2-signed_sha256.7z.sha1”。
+[2437789] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2438761] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2439869] 正在下载组件 MinGW 11.2.0 64-bit 的存档“6.6.1-0-202311210525opengl32sw-64-mesa_11_2_2-signed_sha256.7z”。
+[2439901] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2440882] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2443266] 正在下载组件 Documentation for Qt 6.6.1 Qt 3D 的存档“6.6.1-0-202311210525activeqt-documentation.zip.sha1”。
+[2443291] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2444304] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2445405] 正在下载组件 Documentation for Qt 6.6.1 Qt 3D 的存档“6.6.1-0-202311210525activeqt-documentation.zip”。
+[2445427] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2446429] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2447748] 正在下载组件 Examples for Qt 6.6.1 Active Qt 的存档“6.6.1-0-202311210525qtactiveqt-examples-6.6.1.7z.sha1”。
+[2447767] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2448768] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2449939] 正在下载组件 Examples for Qt 6.6.1 Active Qt 的存档“6.6.1-0-202311210525qtactiveqt-examples-6.6.1.7z”。
+[2449946] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2450914] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2452042] 正在下载组件 Documentation for Qt 6.6.1 Qt 3D 的存档“6.6.1-0-202311210525qt3d-documentation.zip.sha1”。
+[2452069] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2453048] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2454176] 正在下载组件 Documentation for Qt 6.6.1 Qt 3D 的存档“6.6.1-0-202311210525qt3d-documentation.zip”。
+[2454207] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2455259] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2462427] 正在下载组件 Examples for Qt 6.6.1 3D 的存档“6.6.1-0-202311210525qt3d-examples-6.6.1.7z.sha1”。
+[2462450] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2463403] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2464512] 正在下载组件 Examples for Qt 6.6.1 3D 的存档“6.6.1-0-202311210525qt3d-examples-6.6.1.7z”。
+[2464543] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2465585] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2511032] Warning: libpng warning: iCCP: known incorrect sRGB profile
+[2517488] 正在下载组件 Documentation for Qt 6.6.1 Qt Shader Tools 的存档“6.6.1-0-202311210525qtshadertools-documentation.zip.sha1”。
+[2517509] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2518590] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2519704] 正在下载组件 Documentation for Qt 6.6.1 Qt Shader Tools 的存档“6.6.1-0-202311210525qtshadertools-documentation.zip”。
+[2519733] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2520785] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2521035] Warning: libpng warning: iCCP: known incorrect sRGB profile
+[2522167] 正在下载组件 Examples for Qt 6.6.1 Qt Shader Tools 的存档“6.6.1-0-202311210525qtshadertools-examples-6.6.1.7z.sha1”。
+[2522192] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2523154] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2524279] 正在下载组件 Examples for Qt 6.6.1 Qt Shader Tools 的存档“6.6.1-0-202311210525qtshadertools-examples-6.6.1.7z”。
+[2524286] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2525388] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2526505] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtCharts) 的存档“6.6.1-0-202311210525qtcharts-documentation.zip.sha1”。
+[2526512] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2527512] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2528666] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtCharts) 的存档“6.6.1-0-202311210525qtcharts-documentation.zip”。
+[2528693] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2529660] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2538777] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtCharts) 的存档“6.6.1-0-202311210525qtcharts-examples-6.6.1.7z.sha1”。
+[2538784] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2539747] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2540886] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtCharts) 的存档“6.6.1-0-202311210525qtcharts-examples-6.6.1.7z”。
+[2540907] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2541937] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2543154] 正在下载组件 Documentation for Qt 6.6.1 Qt CoAP 的存档“6.6.1-0-202311210525qtcoap-documentation.zip.sha1”。
+[2543172] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2544517] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2545625] 正在下载组件 Documentation for Qt 6.6.1 Qt CoAP 的存档“6.6.1-0-202311210525qtcoap-documentation.zip”。
+[2545657] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2546688] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2548039] 正在下载组件 Examples for Qt 6.6.1 CoAP 的存档“6.6.1-0-202311210525qtcoap-examples-6.6.1.7z.sha1”。
+[2548057] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2549122] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2550217] 正在下载组件 Examples for Qt 6.6.1 CoAP 的存档“6.6.1-0-202311210525qtcoap-examples-6.6.1.7z”。
+[2550241] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2551214] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2552433] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtConnectivity/Bluetooth) 的存档“6.6.1-0-202311210525qtbluetooth-documentation.zip.sha1”。
+[2552463] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2553484] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2554570] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtConnectivity/Bluetooth) 的存档“6.6.1-0-202311210525qtbluetooth-documentation.zip”。
+[2554594] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2555542] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2556968] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtConnectivity/NFC) 的存档“6.6.1-0-202311210525qtnfc-documentation.zip.sha1”。
+[2556993] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2557989] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2559109] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtConnectivity/NFC) 的存档“6.6.1-0-202311210525qtnfc-documentation.zip”。
+[2559134] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2560588] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2561855] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtConnectivity) 的存档“6.6.1-0-202311210525qtconnectivity-examples-6.6.1.7z.sha1”。
+[2561886] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2562872] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2563951] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtConnectivity) 的存档“6.6.1-0-202311210525qtconnectivity-examples-6.6.1.7z”。
+[2563983] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2564949] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2566269] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtDataVisualization) 的存档“6.6.1-0-202311210525qtdatavis3d-documentation.zip.sha1”。
+[2566292] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2567259] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2568344] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtDataVisualization) 的存档“6.6.1-0-202311210525qtdatavis3d-documentation.zip”。
+[2568375] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2569380] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2572969] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtDataVisualization) 的存档“6.6.1-0-202311210525qtdatavis3d-examples-6.6.1.7z.sha1”。
+[2572990] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2573988] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2575104] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtDataVisualization) 的存档“6.6.1-0-202311210525qtdatavis3d-examples-6.6.1.7z”。
+[2575111] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2576108] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2579316] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtGraphs) 的存档“6.6.1-0-202311210525qtgraphs-documentation.zip.sha1”。
+[2579323] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2580286] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2581370] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtGraphs) 的存档“6.6.1-0-202311210525qtgraphs-documentation.zip”。
+[2581396] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2582474] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2589667] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtGraphs) 的存档“6.6.1-0-202311210525qtgraphs-examples-6.6.1.7z.sha1”。
+[2589686] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2590711] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2591849] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtGraphs) 的存档“6.6.1-0-202311210525qtgraphs-examples-6.6.1.7z”。
+[2591869] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2592891] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2596117] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtQuick3D) 的存档“6.6.1-0-202311210525qtquick3d-documentation.zip.sha1”。
+[2596136] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2597107] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2598205] 正在下载组件 Documentation for Qt 6.6.1 GPLv3 components (QtQuick3D) 的存档“6.6.1-0-202311210525qtquick3d-documentation.zip”。
+[2598228] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2599244] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2609139] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtQuick3D) 的存档“6.6.1-0-202311210525qtquick3d-examples-6.6.1.7z.sha1”。
+[2609158] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2610139] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2611261] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtQuick3D) 的存档“6.6.1-0-202311210525qtquick3d-examples-6.6.1.7z”。
+[2611284] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2612288] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2623734] 正在下载组件 Documentation for Qt Quick Timeline 的存档“6.6.1-0-202311210525qtquicktimeline-documentation.zip.sha1”。
+[2623741] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2624760] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2625855] 正在下载组件 Documentation for Qt Quick Timeline 的存档“6.6.1-0-202311210525qtquicktimeline-documentation.zip”。
+[2625862] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2626816] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2627433] 正在下载组件 Documentation for Qt 6.6.1 HTTP Server 的存档“6.6.1-0-202311210525qthttpserver-documentation.zip.sha1”。
+[2627440] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2628418] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2629556] 正在下载组件 Documentation for Qt 6.6.1 HTTP Server 的存档“6.6.1-0-202311210525qthttpserver-documentation.zip”。
+[2629588] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2630593] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2631905] 正在下载组件 Examples for Qt 6.6.1 HTTP Server 的存档“6.6.1-0-202311210525qthttpserver-examples-6.6.1.7z.sha1”。
+[2631926] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2632940] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2634051] 正在下载组件 Examples for Qt 6.6.1 HTTP Server 的存档“6.6.1-0-202311210525qthttpserver-examples-6.6.1.7z”。
+[2634083] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2635116] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2641387] 正在下载组件 Documentation for Qt 6.6.1 WebSockets 的存档“6.6.1-0-202311210525qtwebsockets-documentation.zip.sha1”。
+[2641393] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2642395] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2643558] 正在下载组件 Documentation for Qt 6.6.1 WebSockets 的存档“6.6.1-0-202311210525qtwebsockets-documentation.zip”。
+[2643586] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2644600] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2645973] 正在下载组件 Examples for Qt 6.6.1 WebSockets 的存档“6.6.1-0-202311210525qtwebsockets-examples-6.6.1.7z.sha1”。
+[2645990] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2646997] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2648089] 正在下载组件 Examples for Qt 6.6.1 WebSockets 的存档“6.6.1-0-202311210525qtwebsockets-examples-6.6.1.7z”。
+[2648123] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2649121] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2650366] 正在下载组件 Documentation for Qt 6.6.1 Imageformats 的存档“6.6.1-0-202311210525qtimageformats-documentation.zip.sha1”。
+[2650373] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2651383] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2652485] 正在下载组件 Documentation for Qt 6.6.1 Imageformats 的存档“6.6.1-0-202311210525qtimageformats-documentation.zip”。
+[2652493] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2653493] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2654753] 正在下载组件 Examples for Qt 6.6.1 Image Formats 的存档“6.6.1-0-202311210525qtimageformats-examples-6.6.1.7z.sha1”。
+[2654760] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2655743] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2656857] 正在下载组件 Examples for Qt 6.6.1 Image Formats 的存档“6.6.1-0-202311210525qtimageformats-examples-6.6.1.7z”。
+[2656864] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2657858] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2658977] 正在下载组件 Examples for Qt 6.6.1 Insight Tracker 的存档“6.6.1-0-202311210525tqtc-qtinsighttracker-examples-6.6.1.7z.sha1”。
+[2658984] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2659925] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2660130] 正在下载组件 Examples for Qt 6.6.1 Insight Tracker 的存档“6.6.1-0-202311210525tqtc-qtinsighttracker-examples-6.6.1.7z”。
+[2660152] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2661166] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2661528] 正在下载组件 Documentation for Qt 6.6.1 Insight Tracker 的存档“6.6.1-0-202311210525tqtc-qtinsighttracker-documentation.zip.sha1”。
+[2661557] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2662546] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2662891] 正在下载组件 Documentation for Qt 6.6.1 Insight Tracker 的存档“6.6.1-0-202311210525tqtc-qtinsighttracker-documentation.zip”。
+[2662912] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2663900] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2664280] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtLottieAnimation) 的存档“6.6.1-0-202311210525qtlanguageserver-examples-6.6.1.7z.sha1”。
+[2664308] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2665312] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2666424] 正在下载组件 Examples for Qt 6.6.1 GPLv3 components (QtLottieAnimation) 的存档“6.6.1-0-202311210525qtlanguageserver-examples-6.6.1.7z”。
+[2666447] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2667527] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2668681] 正在下载组件 Documentation for Qt 6.6.1 Location 的存档“6.6.1-0-202311210525qtlocation-documentation.zip.sha1”。
+[2668701] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2669684] Warning: Could not get the INetworkConnection instance for the adapter GUID.
+[2670765] 正在下载组件 Documentatio

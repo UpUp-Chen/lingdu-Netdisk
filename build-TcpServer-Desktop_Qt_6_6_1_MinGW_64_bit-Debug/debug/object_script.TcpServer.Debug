@@ -1,0 +1,11 @@
+debug/database.o
+debug/main.o
+debug/mytcpserver.o
+debug/protocol.o
+debug/srvSocket.o
+debug/tcpserver.o
+debug/qrc_config.o
+debug/moc_database.o
+debug/moc_mytcpserver.o
+debug/moc_srvSocket.o
+debug/moc_tcpserver.o
